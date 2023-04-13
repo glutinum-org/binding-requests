@@ -9,4 +9,4 @@ assignees: ''
 
 - Github repo: 
 - API Documentation:
-- API definition: 
+- API definitions: 
