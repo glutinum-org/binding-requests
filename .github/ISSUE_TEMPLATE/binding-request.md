@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+## Description of the package
+
+## Resources
+
 - Github repo: 
 - API Documentation:
 - API definitions: 
