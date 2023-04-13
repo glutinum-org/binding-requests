@@ -1,5 +1,5 @@
 ---
-name: Binding request for Fable
+name: Binding request
 about: Use this template to request a binding for Fable
 title: 'Request for '
 labels:
